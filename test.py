@@ -39,7 +39,7 @@ prediction = model.predict(test_data)
 
 
 count = 0
-total = 100
+total = 20000
 for i in range(total):
     res = ""
     for j in range(6):
