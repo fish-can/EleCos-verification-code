@@ -1,4 +1,5 @@
 # EleCos-confirmation-code
+淡江大學選課系統驗證碼，使用 CNN進行辨識
 
 ## Selenium
   Download [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
