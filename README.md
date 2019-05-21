@@ -1,4 +1,4 @@
-# EleCos-confirmation-code
+# EleCos-verification-code
 淡江大學選課系統驗證碼，使用 CNN進行辨識
 
 ## Selenium
